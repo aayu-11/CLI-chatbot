@@ -75,6 +75,6 @@ async function main() {
   }
 }
 
-// main();
+main();
 
-debate().catch(console.error);
+// debate().catch(console.error);
